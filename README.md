@@ -1,6 +1,6 @@
 # Hotel_Management
 
-This is a grroup project.
+This is a group project.
 
 20126021 - Lê Viết Lực
 
